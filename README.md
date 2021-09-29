@@ -4,15 +4,15 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gleidson28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gleidson28&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
   ##
   
 - 🌱 I’m currently learning UX Designer, TypeScript
 - 👯 I’m looking to collaborate on my JavaFx projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with apis
 - 💬 Ask me about JavaFx
-- 📫 How to reach me: gleidisonmt@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Hello World!
   
